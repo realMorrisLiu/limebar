@@ -1,8 +1,9 @@
 {
-    "uuid": "limebar@hahahahaha.ga",
-    "name": "limebar",
-    "description": "An elegant bar.",
-    "version": 1,
-    "shell-version": [ "3.36" ],
-    "url": "https://github.com/realMorrisLiu/limebar"
+  "name": "limebar",
+  "description": "An elegant bar.",
+  "uuid": "limebar@hahahahahaha.ga",
+  "shell-version": [
+    "3.36"
+  ],
+  "url": "https://github.com/realMorrisLiu/limebar"
 }
