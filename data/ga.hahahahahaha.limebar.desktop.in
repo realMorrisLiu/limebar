@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=limebar
+Exec=ga.hahahahahaha.limebar
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
