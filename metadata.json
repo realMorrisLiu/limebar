@@ -4,5 +4,5 @@
     "description": "An elegant bar.",
     "version": 1,
     "shell-version": [ "3.36" ],
-    "url": "https://gitlab.gnome.org/World/ShellExtensions/gnome-shell-extension-example"
+    "url": "https://github.com/realMorrisLiu/limebar"
 }
